@@ -51,7 +51,22 @@ quotes = [
 	"""So true Destroyox, my objective IS apartheid!""<br/>-Perondas",
 	"""I'm not putting words in your mouth, you're putting noises OUT of your mouth!""<br/>-Versten",
 	"""I'm trying to find more ways to piss on Keberb""<br/>-Exabit",
-	"""We're making progress""<br/>-Snubby"
+	"""We're making progress""<br/>-Snubby",
+	"""Get Fucked Little Girl I'm Playing Arma""<br/>-Exabit",
+	"""Because I'm not dyslexic and this is not the art of flight""<br/>-Lelop",
+	"""Rebinding G is like wearing a rubber, its always a good idea and doesnt nearly feel as good""<br/>-Lelop",
+	"""KARMIC JUSTICE, I TOLD YOU<br/>THE MONKEY. ITS PAW""<br/>-Snubby",
+	"""Perondas, you Dumb MotherFUCKER!""<br/>-Croguy",
+	"""Battle of the Bulge-y Wuldge-y""<br/>-Croguy",
+	"""Don't dead open my ass or whatever""<br/>-Barkhan",
+	"""youll be fine<br/>we love ya<br/><br/><br/>i am in hell""<br/>-Trinity",
+	"""Who fucking keeps removing hornet pussy?""<br/>-Barkhan",
+	"""in war, there are no unpissed soldiers""<br/>-Honey Butter",
+	"""Can I join yet?""<br/>-Joint Op Player",
+	"""You're on a funny little adventure aren't you""<br/>-Exabit",
+	"""Guys the fog is coming btw""<br/>-Snubby",
+	"""very hot im wanking at my desk as we speak""<br/>-Lelop",
+	"""Help me I'm locked in the basement forced to write death quotes""<br/>-No one, don't worry about it."
 ];
 
 ["<t color='#ffffff' size='.8'>"+(selectRandom quotes)+"</t>",-1,-1,10,1,0,789] spawn BIS_fnc_dynamicText;
